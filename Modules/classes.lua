@@ -160,3 +160,5 @@ function Classes.create(Identifier, ConstructorTable, ParentClass)
 
     return Class
 end 
+
+return Classes
